@@ -192,7 +192,7 @@ jupyter notebook
 
 - [x] Data exploration & cleaning
 - [x] EDA & visualizations
-- [ ] Missing value handling
+- [x] Missing value handling
 - [ ] Deeper time-series analysis
 - [ ] Customer segment aur regional pattern analysis
 - [ ] Interactive dashboard (Power BI / Tableau)
